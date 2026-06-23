@@ -56,19 +56,7 @@ The project demonstrates the complete analytics workflow from data collection an
 
 MySQL • SQL • Excel • Power BI • Data Cleaning • Data Analysis • Data Visualization • Dashboard Development • KPI Reporting
 
-## Dashboard Preview
 
-### Dashboard 1
-
-![Dashboard 1](Dashboard_Screenshots/Page-1_KPI_Summary.png)
-
-### Dashboard 2
-
-![Dashboard 2](Dashboard_Screenshots/Page-2_Performance_Analysis.png)
-
-### Dashboard 3
-
-![Dashboard 3](Dashboard_Screenshots/Page-3_Performance_Insights.png)
 
 ## Author
 
