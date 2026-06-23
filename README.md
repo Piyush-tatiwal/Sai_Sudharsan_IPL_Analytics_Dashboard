@@ -1,5 +1,3 @@
-
-
 # Sai Sudharsan IPL Analytics Dashboard
 
 ## Overview
@@ -62,15 +60,15 @@ MySQL • SQL • Excel • Power BI • Data Cleaning • Data Analysis • Dat
 
 ### Dashboard 1
 
-![Dashboard 1](Dashboard_Screenshots/Dashboard_1.png)
+![Dashboard 1](Dashboard_Screenshots/Page-1_KPI_Summary.png)
 
 ### Dashboard 2
 
-![Dashboard 2](Dashboard_Screenshots/Dashboard_2.png)
+![Dashboard 2](Dashboard_Screenshots/Page-2_Performance_Analysis.png)
 
 ### Dashboard 3
 
-![Dashboard 3](Dashboard_Screenshots/Dashboard_3.png)
+![Dashboard 3](Dashboard_Screenshots/Page-3_Performance_Insights.png)
 
 ## Author
 
