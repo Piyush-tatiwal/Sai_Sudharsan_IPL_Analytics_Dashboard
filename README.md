@@ -56,11 +56,7 @@ The project demonstrates the complete analytics workflow from data collection an
 
 MySQL • SQL • Excel • Power BI • Data Cleaning • Data Analysis • Data Visualization • Dashboard Development • KPI Reporting
 
-
-
 ## Author
 
-Piyush Tatiwal
-
-
+**Piyush Tatiwal**
 
