@@ -1,0 +1,58 @@
+﻿Inning_No,Match_date ,Season,Opponent,Venue,Runs ,Balls ,Fours,Sixes,Strike_Rate,Batting_Position,Dismissal ,Result ,Boundary_Runs,Boundary_percentage
+1,08-04-22,2022,Punjab Kings,Mumbai,35,30,4,1,116.67,3,Caught,Win,22,62.86
+2,11-04-22,2022,Sunrisers Hyderabad,Mumbai,11,9,2,0,122.22,3,Caught,Loss,8,72.73
+3,30-04-22,2022,Royal Challengers Bengaluru,Mumbai,20,14,2,0,142.86,3,Caught,Win,8,40
+4,03-05-22,2022,Punjab Kings,Mumbai,65,50,5,1,130,3,Not Out,Loss,26,40
+5,06-05-22,2022,Mumbai Indians,Mumbai,14,11,1,1,127.27,4,Hit Wicket,Loss,10,71.43
+6,31-03-23,2023,Chennai Super Kings,Ahmedabad,22,17,3,0,129.41,3,Caught,Win,12,54.55
+7,04-04-23,2023,Delhi Capitals,Delhi,62,48,4,2,129.17,3,Not Out,Win,28,45.16
+8,09-04-23,2023, Kolkata Knight Riders,Ahmedabad,53,38,3,2,139.47,3,Caught,Loss,24,45.28
+9,13-04-23,2023,Punjab Kings,Mohali,19,20,2,0,95,3,Caught,Win,8,42.11
+10,16-04-23,2023,Rajasthan Royals,Ahmedabad,20,19,2,0,105.26,3,Run out,Loss,8,40
+11,15-05-23,2023,Sunrisers Hyderabad,Ahmedabad,47,36,6,1,130.56,3,Caught,Win,30,63.83
+12,26-05-23,2023,Mumbai Indians,Ahmedabad,43,31,5,1,138.71,3,Retd.Out,Win,26,60.47
+13,29-05-23,2023,Chennai Super Kings,Ahmedabad,96,47,8,6,204.26,3,LBW,Loss,68,70.83
+14,24-03-24,2024,Mumbai Indians,Ahmedabad,45,39,3,1,115.38,3,Caught,Win,18,40
+15,26-03-24,2024,Chennai Super Kings,Chennai,37,31,3,0,119.35,3,Caught,Loss,12,32.43
+16,31-03-24,2024,Sunrisers Hyderabad,Ahmedabad,45,36,4,1,125,3,Caught,Win,22,48.89
+17,04-04-24,2024,Punjab Kings,Ahmedabad,33,19,6,0,173.68,4,Caught,Loss,24,72.73
+18,07-04-24,2024,Lucknow Super Giants,Lucknow,31,23,4,0,134.78,1,Caught,Loss,16,51.61
+19,10-04-24,2024,Rajasthan Royals,Jaipur,35,29,3,1,120.69,1,LBW,Win,18,51.43
+20,17-04-24,2024,Delhi Capitals,Ahmedabad,12,9,2,0,133.33,3,Run out,Loss,8,66.67
+21,21-04-24,2024,Punjab Kings,Mullanpur,31,34,3,0,91.18,3,Bowled,Win,12,38.71
+22,24-04-24,2024,Delhi Capitals,Delhi,65,39,7,2,166.67,3,Caught,Loss,40,61.54
+23,28-04-24,2024,Royal Challengers Bengaluru,Ahmedabad,84,49,8,4,171.43,3,Not Out,Loss,56,66.67
+24,04-05-24,2024,Royal Challengers Bengaluru,Bengluru,6,14,0,0,42.86,3,Caught,Loss,0,0
+25,10-05-24,2024,Chennai Super Kings,Ahmedabad,103,51,5,7,201.96,1,Caught,Win,62,60.19
+26,25-03-25,2025,Punjab Kings,Ahmedabad,74,41,5,6,180.49,1,Caught,Loss,56,75.68
+27,29-03-25,2025,Mumbai Indians,Ahmedabad,63,41,4,2,153.66,1,LBW,Win,28,44.44
+28,02-04-25,2025,Royal Challengers Bengaluru,Bengluru,49,36,7,1,136.11,1,Caught,Win,34,69.39
+29,06-04-25,2025,Sunrisers Hyderabad,Hyderabad,5,9,0,0,55.56,1,Caught,Win,0,0
+30,09-04-25,2025,Rajasthan Royals,Ahmedabad,82,53,8,3,154.72,1,Caught,Win,50,60.98
+31,12-04-25,2025,Lucknow Super Giants,Lucknow,56,37,7,1,151.35,1,Caught,Loss,34,60.71
+32,19-04-25,2025,Delhi Capitals,Ahmedabad,36,21,5,1,171.43,1,Caught,Win,26,72.22
+33,21-04-25,2025, Kolkata Knight Riders,Kolkata,52,36,6,1,144.44,1,Caught,Win,30,57.69
+34,28-04-25,2025,Rajasthan Royals,Jaipur,39,30,4,1,130,1,Caught,Loss,22,56.41
+35,02-05-25,2025,Sunrisers Hyderabad,Ahmedabad,48,23,9,0,208.7,1,Caught,Win,36,75
+36,06-05-25,2025,Mumbai Indians,Mumbai,5,5,1,0,100,1,Caught,Win,4,80
+37,18-05-25,2025,Delhi Capitals,Delhi,108,61,12,4,177.05,1,Not Out,Win,72,66.67
+38,22-05-25,2025,Lucknow Super Giants,Ahmedabad,21,16,4,0,131.25,1,Caught,Loss,16,76.19
+39,25-05-25,2025,Chennai Super Kings,Ahmedabad,41,28,6,0,146.43,1,Caught,Loss,24,58.54
+40,30-05-25,2025,Mumbai Indians,Mullanpur,80,49,10,1,163.27,1,Bowled,Loss,46,57.5
+41,31-03-26,2026,Punjab Kings,Mullanpur,13,11,2,0,118.18,1,Caught,Loss,8,61.54
+42,04-04-26,2026,Rajasthan Royals,Ahmedabad,73,44,9,3,165.91,1,Caught,Loss,54,73.97
+43,08-04-26,2026,Delhi Capitals,Delhi,12,7,2,0,171.43,1,Bowled,Win,8,66.67
+44,12-04-26,2026,Lucknow Super Giants,Lucknow,15,14,3,0,107.14,1,Caught,Win,12,80
+45,17-04-26,2026, Kolkata Knight Riders,Ahmedabad,22,16,1,2,137.5,1,Caught,Win,16,72.73
+46,20-04-26,2026,Mumbai Indians,Ahmedabad,0,1,0,0,0,1,Caught,Loss,0,0
+47,24-04-26,2026,Royal Challengers Bengaluru,Bengluru,100,58,11,5,172.41,1,Caught,Loss,74,74
+48,26-04-26,2026,Chennai Super Kings,Chennai,87,46,4,7,189.13,1,Caught,Win,58,66.67
+49,30-04-26,2026,Royal Challengers Bengaluru,Ahmedabad,6,5,1,0,120,1,Caught,Win,4,66.67
+50,03-05-26,2026,Punjab Kings,Ahmedabad,57,41,5,1,139.02,1,Caught,Win,26,45.61
+51,09-05-26,2026,Rajasthan Royals,Jaipur,55,36,6,2,152.78,1,Caught,Win,36,65.45
+52,12-05-26,2026,Sunrisers Hyderabad,Ahmedabad,61,44,5,2,138.64,1,Caught,Win,32,52.46
+53,16-05-26,2026, Kolkata Knight Riders,Kolkata,53,28,6,3,189.29,1,Not Out,Loss,42,79.25
+54,21-05-26,2026,Chennai Super Kings,Ahmedabad,84,53,7,4,158.49,1,Caught,Win,52,61.9
+55,26-05-26,2026,Royal Challengers Bengaluru,Himachal Pradesh,14,9,3,0,155.56,1,Hit Wicket,Loss,12,85.71
+56,29-05-26,2026,Rajasthan Royals,Mullanpur,58,32,8,1,181.25,1,Hit Wicket,Win,38,65.52
+57,31-05-26,2026,Royal Challengers Bengaluru,Ahmedabad,12,12,2,0,100,1,Caught,Loss,8,66.67
