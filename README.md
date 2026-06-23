@@ -1,4 +1,7 @@
-# Sai_Sudharsan_IPL_Analytics_Dashboard
+
+
+
+# Sai Sudharsan IPL Analytics Dashboard
 
 ## Overview
 
@@ -56,6 +59,20 @@ The project demonstrates the complete analytics workflow from data collection an
 
 MySQL • SQL • Excel • Power BI • Data Cleaning • Data Analysis • Data Visualization • Dashboard Development • KPI Reporting
 
+## Dashboard Preview
+
+### Dashboard 1
+
+![Dashboard 1](Dashboard_Screenshots/Dashboard_1.png)
+
+### Dashboard 2
+
+![Dashboard 2](Dashboard_Screenshots/Dashboard_2.png)
+
+### Dashboard 3
+
+![Dashboard 3](Dashboard_Screenshots/Dashboard_3.png)
+
 ## Author
 
-**Piyush Tatiwal**
+Piyush Tatiwal
